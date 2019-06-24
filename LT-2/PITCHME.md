@@ -3,7 +3,7 @@
 
 ---
 
-# 分割コンパイル
+## 分割コンパイル
 
 ---
 
@@ -11,22 +11,22 @@
 
 ---
  
----/
+&nbsp; ---/
 <br>
-&nbsp; |-hello.h
+|-hello.h
 <br>
-&nbsp; |-hello.c
+|-hello.c
 <br>
-&nbsp; |-main.c
+|-main.c
 
 ---
 
----?code=assets/hello.h
+---?code=LT2/assets/hello.h
 
 ---
 
----?code=assets/hello.c
+---?code=LT2/assets/hello.c
 
 ---
 
----?code=assets/main.c
+---?code=LT2/assets/main.c
