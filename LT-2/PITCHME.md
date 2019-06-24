@@ -19,10 +19,8 @@
 <br>
 |-main.c
 
----
-
-hello.h
-?code=LT-2/assets/hello.h
+---?code=LT-2/assets/hello.h
+@[](hello.h)
 
 ---?code=LT-2/assets/hello.c
 
