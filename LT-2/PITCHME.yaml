@@ -1,11 +1,11 @@
 #Theme Setting(black, moon, night, beige, sky, white が設定可)
-theme : moon
+theme : beige
 
 
 footnote :  "© 2019 tetuomi"
 
 
-highlight : mono-blue
+highlight : monokai
 
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
