@@ -20,8 +20,10 @@
 |-main.c
 
 ---?code=LT-2/assets/hello.h
-@[](hello.h)
+hello.h
 
 ---?code=LT-2/assets/hello.c
+hello.c
 
 ---?code=LT-2/assets/main.c
+main.c
