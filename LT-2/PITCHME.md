@@ -11,7 +11,7 @@
 
 ---
  
-&nbsp; ---/
+---/
 <br>
 |-hello.h
 <br>
@@ -19,7 +19,10 @@
 <br>
 |-main.c
 
----?code=LT-2/assets/hello.h
+---
+
+hello.h
+?code=LT-2/assets/hello.h
 
 ---?code=LT-2/assets/hello.c
 
