@@ -1,3 +1,5 @@
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ ls
+hello.c  hello.h  main.c
 tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ gcc -c hello.c main.c 
 tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ ls
 hello.c  hello.h  hello.o  main.c  main.o
