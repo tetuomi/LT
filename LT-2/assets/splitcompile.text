@@ -1,0 +1,8 @@
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ gcc -c hello.c main.c 
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ ls
+hello.c  hello.h  hello.o  main.c  main.o
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ gcc -o a.out main.o hello.o
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ ls
+a.out  hello.c  hello.h  hello.o  main.c  main.o
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ ./a.out 
+Hello!
