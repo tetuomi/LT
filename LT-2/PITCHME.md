@@ -19,17 +19,8 @@
 <br>
 |-main.c
 
----
+---?code=LT-2/assets/hello.h
 
-@transition[convex]
----?code=LT2/assets/hello.h
+---?code=LT-2/assets/hello.c
 
----
-
-@transition[convex]
----?code=LT2/assets/hello.c
-
----
-
-@transition[convex]
----?code=LT2/assets/main.c
+---?code=LT-2/assets/main.c
