@@ -21,12 +21,15 @@
 
 ---
 
+@transition[convex]
 ---?code=LT2/assets/hello.h
 
 ---
 
+@transition[convex]
 ---?code=LT2/assets/hello.c
 
 ---
 
+@transition[convex]
 ---?code=LT2/assets/main.c
