@@ -53,3 +53,9 @@ main.c
 |-main.c
 
 ---?code=LT-2/assets/CmakeLists.text
+@[1](cmakeのバージョン指定)
+@[3](プロジェクト名と使用する言語を設定)
+@[5-8](a.outという実行ファイルをmain.cとhello.cから作成)
+
+---
+
