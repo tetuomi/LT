@@ -67,15 +67,15 @@ main.c
 ---
 
 ## まとめ
-* >CMakeLists.txt を作る |
+* CMakeLists.txt を作る |
 <br>
-* > mkdir buil |
+* mkdir build |
 <br>
-* >cd build |
+* cd build |
 <br>
-* >cmake .. |
+* cmake .. |
 <br>
-* >make |
+* make |
 <br>
 
 ---
