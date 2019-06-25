@@ -19,3 +19,6 @@ Scanning dependencies of target a.out
 [100%] Built target a.out
 tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets/build$ ls
 CMakeCache.txt  CMakeFiles  Makefile  a.out  cmake_install.cmake
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets/build$ ./a.out 
+Hello!
+
