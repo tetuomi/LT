@@ -52,10 +52,17 @@ main.c
 |-hello.c <br>
 |-main.c
 
----?code=LT-2/assets/CmakeLists.text
+---?code=LT-2/assets/CMakeLists.text
 @[1](cmakeのバージョン指定)
 @[3](プロジェクト名と使用する言語を設定)
 @[5-8](a.outという実行ファイルをmain.cとhello.cから作成)
+
+---?code=LT-2/assets/results-cmake.txt
+@[1](directory を作成)
+@[2-13](移動してcmake)
+@[14-19](make)
+@[20-21](a.out　という実行ファイルができている)
+@[22-23](ちゃんと実行できます)
 
 ---
 
