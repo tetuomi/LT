@@ -29,6 +29,7 @@ hello.c
 main.c
 
 ---?code=LT-2/assets/splitcompile.text
+@[1-2](hello.h hello.c main.c があります)
 @[3](hello.c main.c をコンパイルだけしてオブジェクトファイルを生成)
 @[4-5](オブジェクトファイルが生成された)
 @[6](オブジェクトファイルをリンクして,a.outを生成)
@@ -36,3 +37,9 @@ main.c
 @[9-10](ちゃんと実行できます)
 
 ---
+
+## めんど...
+
+---
+@transition[zoom]
+## * (cmake) を使ってみよう
