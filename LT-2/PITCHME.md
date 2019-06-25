@@ -28,7 +28,7 @@ hello.c
 ---?code=LT-2/assets/main.c
 main.c
 
----?code=LT-2/assets/splitcompile.text
+---?code=LT-2/assets/splitcompile.txt
 @[1-2](hello.h hello.c main.c があります)
 @[3](hello.c main.c をコンパイルだけしてオブジェクトファイルを生成)
 @[4-5](オブジェクトファイルが生成された)
@@ -42,4 +42,14 @@ main.c
 
 ---
 @transition[zoom]
-## * (cmake) を使ってみよう
+@size[em2.5](cmakeを使ってみる)
+
+---
+
+(デレクトリ下)/ <br>
+|-CmakeLists.txt <br>
+|-hello.h <br>
+|-hello.c <br>
+|-main.c
+
+---?code=LT-2/assets/CmakeLists.text
