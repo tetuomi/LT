@@ -29,6 +29,7 @@ hello.c
 main.c
 
 ---?code=LT-2/assets/splitcompile.text
+
 @[3](hello.c main.c をコンパイルだけしてオブジェクトファイルを生成)
 @[1-5](オブジェクトファイルが生成された)
 @[6](オブジェクトファイルをリンクして,a.outを生成)
