@@ -66,12 +66,12 @@ main.c
 
 ---
 
-##まとめ
->CMakeLists.txt を作る |
-> mkdir build |
->cd build |
->cmake .. |
->make |
+##　まとめ
+>CMakeLists.txt を作る 　|
+> mkdir build 　|
+>cd build 　|
+>cmake .. 　|
+>make 　|
 
 ---
 
