@@ -1,0 +1,21 @@
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ mkdir build
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets$ cd build/
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets/build$ cmake ..
+-- The C compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tetsu/works/LT/LT-2/assets/build
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets/build$ make
+Scanning dependencies of target a.out
+[ 33%] Building C object CMakeFiles/a.out.dir/main.c.o
+[ 66%] Building C object CMakeFiles/a.out.dir/hello.c.o
+[100%] Linking C executable a.out
+[100%] Built target a.out
+tetsu@tetsu-PC-GN165ERDC:~/works/LT/LT-2/assets/build$ ls
+CMakeCache.txt  CMakeFiles  Makefile  a.out  cmake_install.cmake
