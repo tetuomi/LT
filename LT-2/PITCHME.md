@@ -42,7 +42,7 @@ main.c
 
 ---
 @transition[zoom]
-@size[em](cmakeを使ってみる)
+## cmakeを使ってみる
 
 ---
 
@@ -63,6 +63,15 @@ main.c
 @[14-19](make)
 @[20-21](a.out という実行ファイルができている)
 @[22-23](ちゃんと実行できます)
+
+---
+
+##まとめ
+>CMakeLists.txt を作る |
+> mkdir build |
+>cd build |
+>cmake .. |
+>make |
 
 ---
 
