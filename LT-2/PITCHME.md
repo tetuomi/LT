@@ -57,6 +57,14 @@ main.c
 @[3](プロジェクト名と使用する言語を設定)
 @[5-8](a.outという実行ファイルをmain.cとhello.cから作成)
 
+---
+
+やり方
+* mkdir build |
+* cd build |
+* cmake .. |
+* make |
+
 ---?code=LT-2/assets/results-cmake.txt
 @[1](directory を作成)
 @[2-13](移動してcmake)
