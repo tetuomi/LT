@@ -48,7 +48,7 @@ main.c
 
 ---
 @transition[zoom]
-## 次は(@color[#b22222](cmake))を使ってみる
+## 次は @color[#b22222](cmake) を使ってみる
 
 ---
 
