@@ -14,8 +14,8 @@
 
 ---
 @transition[convex]
-###　さっそくやってみよう<br>
-####　みんな大好きhelloっていうだけの <br>
+### さっそくやってみよう<br>
+#### みんな大好きhelloっていうだけの <br>
 #### プログラムを考えます
 ---
 
@@ -38,6 +38,7 @@ hello.c
 main.c
 
 ---?code=LT-2/assets/splitcompile.txt
+コマンドでやってみた
 @[1-2](hello.h hello.c main.c があります)
 @[3](hello.c main.c をコンパイルだけしてオブジェクトファイルを生成)
 @[4-5](オブジェクトファイルが生成された)
@@ -58,6 +59,7 @@ main.c
 |-main.c
 
 ---?code=LT-2/assets/CMakeLists.txt
+CMakeLists.txtの中身
 @[1](cmakeのバージョン指定)
 @[3](プロジェクト名と使用する言語を設定)
 @[5-8](a.outという実行ファイルをmain.cとhello.cから作成)
@@ -71,6 +73,7 @@ main.c
 * make |
 
 ---?code=LT-2/assets/results-cmake.txt
+cmake やってみた
 @[1](directory を作成)
 @[2-13](移動してcmake)
 @[14-19](make)
