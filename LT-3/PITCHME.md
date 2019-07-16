@@ -1,4 +1,40 @@
-## パズル&ドラゴンズとは
+@snap[east]
+<img src="assets/break1.png" />
+@snapend
+
+@snap[west]
+## はい、どうも
+@snapend
+
+---
+
+@snap[east]
+<img src="assets/break2.png" />
+@snapend
+
+@snap[west]
+ブレイクスルー近藤です
+@snapend
+
+---
+
+@snap[east]
+<img src="assets/break3.png" />
+@snapend
+
+@snap[west]
+こ↑んかいなんですけどぉ〜
+@snapend
+
+---
+
+@snap[east]
+<img src="assets/icon.png" />
+@snapend
+
+@snap[west]
+パズル&ドラゴンズとは
+@snapend
 
 ---
 
@@ -8,6 +44,7 @@
 (嵐の二宮もハマっている)
 
 ---
+
 ## やりこみ要素♡
 * ランク上げ(終わりなし) |
 * ランキングダンジョン |
