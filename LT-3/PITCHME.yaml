@@ -9,4 +9,4 @@ highlight : monokai
 
 
 #Transition Setting(遷移時のアクション。convex, concave, default, fade, none, slide, zoom が設定可)
-transition : convex
+transition : fade
