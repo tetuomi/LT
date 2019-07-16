@@ -1,9 +1,15 @@
-<img src="assets/break1.png" />
+@snap[east]
+<img src="LT-3/assets/break1.png" />
+@snapend
+
+@snap[west]
+はい,どうも
+@snapend
 
 ---
 
 @snap[east]
-<img src="assets/break2.png" />
+<img src="LT-3/assets/break2.png" />
 @snapend
 
 @snap[west]
@@ -13,7 +19,7 @@
 ---
 
 @snap[east]
-<img src="assets/break3.png" />
+<img src="LT-3/assets/break3.png" />
 @snapend
 
 @snap[west]
@@ -23,7 +29,7 @@
 ---
 
 @snap[east]
-<img src="assets/icon.png" />
+<img src="LT-3/assets/icon.png" />
 @snapend
 
 @snap[west]
@@ -39,9 +45,18 @@
 
 ---
 
-## やりこみ要素@color[red](♡)
+## @color[red](♡)やりこみ要素@color[red](♡)
 * ランク上げ(終わりなし) |
 * ランキングダンジョン |
 * がちゃがちゃ(闇は深し) |
 
 ---
+
+## パズドラをやると何故いいのか
+* 計算がはやくなる |
+* 先を読める |
+* 無料でガチャが引ける |
+
+---
+
+
